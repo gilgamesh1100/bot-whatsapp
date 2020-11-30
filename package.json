@@ -1,13 +1,13 @@
 {
-  "name": "BOT Hajime eh Akashi AK 🥴🤙 ",
+  "name": "BOT AK 🥴🤙",
   "version": "🤘",
-  "description": "bot wa simple cuk ",
+  "description": "bot wa simple cuuk ",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "dependencies": {
-    "@AK/baileys": "^3.2.1",
+    "@adiwajshing/baileys": "^3.2.1",
     "axios": "0.21.0",
     "bash": "0.0.1",
     "brainly-scraper": "^1.0.2",
@@ -31,3 +31,18 @@
   "devDependencies": {},
   "scripts": {
     "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akunk44/bot-whatsapp"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "Ak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilgamesh1100/bot-whatsapp/issues"
+  },
+  "homepage": "https://github.com/gilgamesh1100/bot-whatsapp/#readme"
+}
